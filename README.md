@@ -1,5 +1,11 @@
 # SkateBoardDeckGenerator
-Skate board deck path generator for DIY skate board maker.
+Skate board deck path generator for DIY skate board maker besed on openFrameworks.
+
+## Requirements
+- openFrameworks 0.9.3+
+- ofxUI
+- ofxVectorGraphics
+- ofxXmlSettings
 
 ## Usage
 1. Make your deck path with simple slider UI.
